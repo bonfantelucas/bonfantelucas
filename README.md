@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=bonfantelucas&color=002333&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github">
 
-**Olá, meu nome é Lucas!**
+# Olá, meu nome é Lucas!
 
 Sou um estudante de Tecnologia da Informação, gosto muito de desenvolvimento WEB e estou me aperfeiçoando para que um dia consiga atuar na área!
 
@@ -15,6 +15,3 @@ Sou um estudante de Tecnologia da Informação, gosto muito de desenvolvimento W
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
 </p>
-
-
-Estou iniciando meus repositórios com alguns projetos que tenho feito, e pretendo estar sempre trazendo projetos novos!
