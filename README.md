@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=bonfantelucas&color=002333&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github">
 
-**Olá, me chamo Lucas Bonfante!**
+Olá, me chamo **Lucas Bonfante!**
 
 Apaixonado por Tecnologia da Informação e desenvolvimento web, estou me aprofundando cada vez mais nesse universo. 
 Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.
@@ -16,8 +16,10 @@ Meu objetivo é me tornar um profissional qualificado e contribuir para a evolu�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
 </p>
+<br><br>
 
-Fique à vontade para explorar meus repositórios e entrar em contato, estou à disposição para conversar e colaborar! Abraços!
+
+Fique à vontade para explorar meus repositórios e entrar em contato, estou à disposição para conversar e colaborar! **Abraços!**
 <p align="left">
   <a href="https://wa.me/5514991053123">
     <img alt="Whatsapp" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg">
