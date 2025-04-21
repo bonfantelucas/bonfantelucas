@@ -34,4 +34,4 @@ Fique à vontade para explorar meus repositórios e entrar em contato, estou à 
 <br>
 
 *"...A excelência, então, não é um ato, mas um hábito."*
-<br> -Aristóteles 
+<br>  -Aristóteles 
