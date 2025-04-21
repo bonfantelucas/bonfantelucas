@@ -18,6 +18,14 @@ Meu objetivo é me tornar um profissional qualificado e contribuir para a evolu�
 </p>
 
 Fique à vontade para explorar meus repositórios e entrar em contato, estou à disposição para conversar e colaborar! Abraços!
-<img alt="Whatsapp" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg">
-<img alt="Linkedin" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
-<img alt="Gmail" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
+<p align="left">
+  <a href="https://wa.me/5514991053123">
+    <img alt="Whatsapp" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg">
+  </a>
+  <a href="[Link]">
+    <img alt="Linkedin" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
+  </a>
+  <a href="mailto:lucas.bonfante.jau@gmail.com?subject=GITHUB%20-%20Contato%20via%20link&body=Ol%C3%A1%20Lucas%2C%20estou%20entrando%20em%20contato%20pelo%20seu%20Github.%20Vamos%20conversar%3F">
+    <img alt="Gmail" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
+  </a>
+</p>
