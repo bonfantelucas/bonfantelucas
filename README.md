@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Lucas Bonfante!</h1>
 
-**Apaixonado por Tecnologia da Informação e desenvolvimento web, tenho me aprofundando cada vez mais nesse universo.**<br>
+**Apaixonado por Tecnologia da Informação e desenvolvimento web, venho me aprofundando cada vez mais nesse vasto universo tecnológico!**<br>
 Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github" width="500" height="200">
@@ -31,5 +31,6 @@ Fique à vontade para explorar meus repositórios e entrar em contato, estou à 
   </a>
 </p>
 
+<br>
 *"...A excelência, então, não é um ato, mas um hábito."*
  -Aristóteles 
