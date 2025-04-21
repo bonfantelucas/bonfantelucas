@@ -18,6 +18,6 @@ Meu objetivo é me tornar um profissional qualificado e contribuir para a evolu�
 </p>
 
 Fique à vontade para explorar meus repositórios e entrar em contato, estou à disposição para conversar e colaborar! Abraços!
-<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Dark]/[Gmail].svg">
-<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
-<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Whatsapp.svg">
+<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
+<img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
