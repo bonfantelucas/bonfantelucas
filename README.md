@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github" width="500" height="200">
-
 <h1>Olá, me chamo Lucas Bonfante!</h1>
 
 Apaixonado por Tecnologia da Informação e desenvolvimento web, estou me aprofundando cada vez mais nesse universo. 
 Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github" width="500" height="200">
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
