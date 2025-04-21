@@ -3,4 +3,4 @@
 # Prazer, meu nome é Lucas!
 ## Sou um estudante de Tecnologia da Informação, mais especificamente desenvolvimento WEB.
 Estou iniciando meus repositórios com alguns projetos que tenho feito,
-  e pretendo estar sempre trazendo projetos novos, sinta-se à vontade para explorar!</p>
+  e pretendo estar sempre trazendo projetos novos, sinta-se à vontade para explorar!
