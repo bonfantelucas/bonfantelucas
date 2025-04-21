@@ -5,7 +5,6 @@ Meu objetivo é me tornar um profissional qualificado e contribuir para a evolu�
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github" width="500" height="200">
 
-
 Minhas prinicipais **Tecnologias**:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
