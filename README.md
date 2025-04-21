@@ -2,8 +2,8 @@
 
 <h1>Olá, me chamo Lucas Bonfante!</h1>
 
-<p>Apaixonado por Tecnologia da Informação e desenvolvimento web, estou me aprofundando cada vez mais nesse universo. 
-Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.</p>
+Apaixonado por Tecnologia da Informação e desenvolvimento web, estou me aprofundando cada vez mais nesse universo. 
+Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
