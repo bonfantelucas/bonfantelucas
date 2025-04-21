@@ -25,7 +25,7 @@ Fique à vontade para explorar meus repositórios e entrar em contato, estou à 
   <a href="[Link]">
     <img alt="Linkedin" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg">
   </a>
-  <a href="mailto:lucas.bonfante.jau@gmail.com?subject=GITHUB%20-%20Contato%20via%20link&body=Ol%C3%A1%20Lucas%2C%20estou%20entrando%20em%20contato%20pelo%20seu%20Github.%20Vamos%20conversar%3F">
+  <a href="mailto:lucas.bonfante.jau@gmail.com">
     <img alt="Gmail" height="25" width="25" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg">
   </a>
 </p>
