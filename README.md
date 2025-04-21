@@ -1,4 +1,3 @@
-<img align='right' src="https://github.com/user-attachments/assets/1700612c-17e4-4642-8479-67aea5c90a45" width="400" height="150">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="ilustração do status do github" width="500" height="200">
 
 Olá, me chamo **Lucas Bonfante!**
