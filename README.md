@@ -3,7 +3,7 @@
 
 **Olá, meu nome é Lucas Bonfante!**
 
-Sou um estudante de Tecnologia da Informação, gosto muito de desenvolvimento WEB e estou me aperfeiçoando para que um dia consiga atuar na área!
+Sou um estudante de Tecnologia da Informação, <br> gosto muito de desenvolvimento WEB <br> e estou me aperfeiçoando para que um dia consiga atuar na área!
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/>
