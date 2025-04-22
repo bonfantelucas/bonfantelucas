@@ -3,7 +3,7 @@
 **Apaixonado por Tecnologia da Informação e desenvolvimento web, venho me aprofundando cada vez mais nesse vasto universo tecnológico!**<br>
 Meu objetivo é me tornar um profissional qualificado e contribuir para a evolução do mundo digital, criando soluções inovadoras e impactantes.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="Github Status" width="500" height="200">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bonfantelucas&show_icons=true&title_color=002333&text_color=159A9C&icon_color=002333&bg_color=B4BEC9&cache_seconds=2300" alt="Github Status">
 
 Minhas prinicipais **Tecnologias**:
 <p align="left">
